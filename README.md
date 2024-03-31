@@ -34,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-rajesh-python&" alt="aryan-rajesh-python" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-Rajesh-Python)](https://github.com/ryo-ma/github-profile-trophy)
