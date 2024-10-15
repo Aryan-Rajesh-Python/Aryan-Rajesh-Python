@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Vision, Tableau, Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryan-rajesh-python](https://github.com/aryan-rajesh-python)
+- 👨‍💻 All of my projects are available at [https://github.com/Aryan-Rajesh-Python?tab=repositories](https://github.com/Aryan-Rajesh-Python?tab=repositories)
 
 - 💬 Ask me about **Python, Java, JavaScript, HTML, CSS, Git, MySQL, Pandas, NumPy, Keras, Matplotlib, Seaborn, Scikit-Learn, Django, TensorFlow, PyTorch, Natural Language Processing, Microsoft Excel, SQL, Microsoft Power BI, Data Structures and Algorithms, Operating Systems, Object-Oriented Programming, Computer Networks, Database Management System, Linux.**
 
