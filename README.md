@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-rajesh-python" alt="aryan-rajesh-python" /></a> </p>
 
-- 🌱 **I’m Currently enhancing my skills in Computer Vision, Tableau, and Angular through hands-on projects.**
+- 🌱 I’m Currently enhancing my skills in **Computer Vision, Tableau, and Angular** through hands-on projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan-Rajesh-Python?tab=repositories](https://github.com/Aryan-Rajesh-Python?tab=repositories)
 
