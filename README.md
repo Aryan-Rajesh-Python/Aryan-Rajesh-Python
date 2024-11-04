@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Rajesh</h1>
-<h3 align="center">Driven AI & ML Enthusiast | Data Science & Analytics Expert | Passionate Innovator Committed to Shaping the Future of Technology</h3>
+<h3 align="center">Driven AI/ML Enthusiast | Data Science & Analytics Expert | Innovator Shaping the Future of Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-rajesh-python&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-rajesh-python" /> </p>
 
