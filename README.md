@@ -33,7 +33,9 @@ href="https://streamlit.io" target="_blank" rel="noreferrer"><img src="https://s
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-rajesh-python&show_icons=true&locale=en&layout=compact" alt="aryan-rajesh-python" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-rajesh-python&show_icons=true&locale=en" alt="aryan-rajesh-python" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-rajesh-python&show_icons=true&theme=tokyonight" alt="Aryan Rajesh's GitHub Stats" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-rajesh-python&" alt="aryan-rajesh-python" /></p>
 
