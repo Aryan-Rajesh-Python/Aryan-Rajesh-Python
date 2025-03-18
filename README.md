@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-rajesh-python" alt="aryan-rajesh-python" /></a> </p>
 
-- 🌱 I’m Currently enhancing my skills in **Computer Vision, Tableau, and Angular** through hands-on projects.
+- 🌱 I’m Currently enhancing my skills in **Computer Vision, Tableau, LangChain, Chart.js, PostgreSQL and Angular** through hands-on projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan-Rajesh-Python?tab=repositories](https://github.com/Aryan-Rajesh-Python?tab=repositories)
 
-- 💬 Ask me about: **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, Git, GitHub, MySQL, Python, Pandas, NumPy, Keras, Matplotlib, Seaborn, Plotly, Scikit-Learn, NLTK, Hugging Face Transformers, Django, Data Analysis, Artificial Intelligence, Machine Learning, Deep Learning, TensorFlow, PyTorch, Natural Language Processing, LLM, GPT-3.5, BERT, Probability, Statistics, Microsoft Excel, SQL, Microsoft Power BI, Computer Vision, OpenCV, Streamlit, Java, C++, Data Structures and Algorithms, Operating Systems, Object-Oriented Programming, Computer Networks, Database Management System, Linux.**
+- 💬 Ask me about: **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, Git, GitHub, MySQL, Python, Pandas, NumPy, Keras, Matplotlib, Seaborn, Plotly, Scikit-Learn, NLTK, Hugging Face Transformers, Flask, Django, Data Analysis, Artificial Intelligence, Machine Learning, Deep Learning, TensorFlow, PyTorch, Natural Language Processing, LLM, GPT-3.5, BERT, Probability, Statistics, Microsoft Excel, SQL, Microsoft Power BI, Computer Vision, OpenCV, Streamlit, Java, C++, Data Structures and Algorithms, Operating Systems, Object-Oriented Programming, Computer Networks, Database Management System, Linux.**
 
 - 📫 How to reach me **aryanreddy463@gmail.com**
 
