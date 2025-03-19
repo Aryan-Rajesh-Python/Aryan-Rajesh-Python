@@ -31,7 +31,7 @@ href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https:/
 href="https://streamlit.io" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/></a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-rajesh-python&show_icons=true&locale=en&layout=compact" alt="aryan-rajesh-python" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-rajesh-python&layout=compact" alt="aryan-rajesh-python" /></p>
 
 ![GitHub Stats](https://img.shields.io/github/stars/aryan-rajesh-python?style=for-the-badge&logo=github)
 
