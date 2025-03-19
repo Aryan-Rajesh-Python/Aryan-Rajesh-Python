@@ -35,6 +35,10 @@ href="https://streamlit.io" target="_blank" rel="noreferrer"><img src="https://s
 
 ![GitHub Stats](https://img.shields.io/github/stars/aryan-rajesh-python?style=for-the-badge&logo=github)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-rajesh-python&show_icons=true&theme=tokyonight" alt="Aryan Rajesh's GitHub Stats" />
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-rajesh-python&" alt="aryan-rajesh-python" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-Rajesh-Python)](https://github.com/ryo-ma/github-profile-trophy)
